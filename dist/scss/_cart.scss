@@ -45,11 +45,6 @@
       max-width: 400px;
       margin: auto;
       object-fit: cover;
-      @media (min-width: 1000px) {
-        img {
-          max-width: none;
-        }
-      }
     }
   }
   .product-details-wrap {

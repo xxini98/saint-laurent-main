@@ -951,11 +951,6 @@ legend {
   -o-object-fit: cover;
      object-fit: cover;
 }
-@media (min-width: 1000px) {
-  .cart-product-section .product-image img img {
-    max-width: none;
-  }
-}
 .cart-product-section .product-details-wrap .product-details {
   text-align: center;
   margin-bottom: 10px;

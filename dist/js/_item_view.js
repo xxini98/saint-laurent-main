@@ -12,6 +12,8 @@ var openButton = document.querySelector(".cart-go-button");
 var closeButton = document.querySelector(".close-modal");
 var modalWrap = document.querySelector(".modal-wrap");
 
+// reset
+
 // cart-go-button을 클릭하면 모달이 나타나도록 이벤트 리스너를 추가합니다.
 openButton.addEventListener("click", function () {
   modal.classList.add("modal-dimmed");
